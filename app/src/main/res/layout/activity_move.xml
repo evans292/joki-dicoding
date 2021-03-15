@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/profile_image"
+                android:layout_width="426dp"
+                android:layout_height="261dp"
+                android:layout_marginTop="16dp"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="16dp"
+                android:background="#60a5fa"
+                android:src="@drawable/gojo"/>
+
+        <TextView
+                android:layout_width="354dp"
+                android:layout_height="83dp"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="8dp"
+                android:text="@string/nama"
+                android:textSize="32sp" />
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="140dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="8dp"
+                android:text="@string/email"
+                android:textSize="30px" />
+
+
+    </LinearLayout>
+
+</ScrollView>

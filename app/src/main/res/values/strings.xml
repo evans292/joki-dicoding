@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Favorite Pokemon</string>
+    <string name="player_name">Nama Pokemon Favorit</string>
+    <string name="detail">Detail</string>
+    <string name="list">Profil Saya</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="data_received">Data Diterima</string>
+
+    <string name="nama">Tubagus Gusti Fauzy</string>
+    <string name="email">tubagus.gustif@gmail.com</string>
+
+
+</resources>
